@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://youthful-darwin-267431.netlify.app/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://youthful-darwin-267431.netlify.app/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://youthful-darwin-267431.netlify.app/"
-                />
-  </url>
-  
-  <url>
     <loc>https://youthful-darwin-267431.netlify.app/faq/</loc>
     <lastmod>2020-03-23T13:05:29+06:00</lastmod>
     <xhtml:link
@@ -29,6 +14,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://youthful-darwin-267431.netlify.app/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://youthful-darwin-267431.netlify.app/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://youthful-darwin-267431.netlify.app/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://youthful-darwin-267431.netlify.app/"
                 />
   </url>
   

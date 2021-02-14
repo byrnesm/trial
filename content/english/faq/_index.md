@@ -1,10 +1,10 @@
 ---
-bg_image: images/featue-bg.jpg
-date: "2020-03-23T13:05:29+06:00"
-description: this is meta description
+title: "Frequently Asked Questions"
+description: "this is meta description"
+subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
+date: 2020-03-23T13:05:29+06:00
 draft: false
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
-title: Frequently Asked Questions
+bg_image: "images/featue-bg.jpg"
 ---
 
 ### Welcome to Airspace!

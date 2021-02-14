@@ -1,17 +1,14 @@
 ---
+title: "How To Wear Bright Shoes"
+date: 2018-09-24T11:07:10+06:00
 author: Mark Dinn
-bg_image: images/featue-bg.jpg
-categories:
-- Artificial Intelligence
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+image : "images/blog/blog-post-5.jpg"
+bg_image: "images/featue-bg.jpg"
+categories: ["Artificial Intelligence"]
+tags: ["Advice","AI"]
+description: "this is meta description"
 draft: false
-image: images/blog/blog-post-5.jpg
-tags:
-- Advice
-- AI
-title: How To Wear Bright Shoes
-type: post
+type: "post"
 ---
 
 

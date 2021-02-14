@@ -1,6 +1,6 @@
 ---
-bg_image: images/featue-bg.jpg
-description: this is meta description
+title: "Drop Us A Note"
+description: "this is meta description"
 draft: false
-title: Drop Us A Note
+bg_image: "images/featue-bg.jpg"
 ---

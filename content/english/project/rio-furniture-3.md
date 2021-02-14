@@ -1,23 +1,23 @@
 ---
-bg_image: images/featue-bg.jpg
-category: Video
-description: this is meta description
+title: "Rio Furniture"
+description: "this is meta description"
 draft: false
-image: images/portfolio/work3.jpg
+image : "images/portfolio/work3.jpg"
+bg_image: "images/featue-bg.jpg"
+category: "Video"
 information:
-- info: Jannie Kelonsky
-  label: Client
-- info: Website Redesign
-  label: What We Did
-- info: Photoshop,Illustrator
-  label: Tools Used
-- info: 17th March 2014
-  label: Completed on
-- info: HTML5 / PHP / CSS3
-  label: Skills
-- info: Jannie Kelonsky
-  label: Client
-title: Rio Furniture
+  - label : "Client"
+    info : "Jannie Kelonsky"
+  - label : "What We Did"
+    info : "Website Redesign"
+  - label : "Tools Used"
+    info : "Photoshop,Illustrator"
+  - label : "Completed on"
+    info : "17th March 2014"
+  - label : "Skills"
+    info : "HTML5 / PHP / CSS3"
+  - label : "Client"
+    info : "Jannie Kelonsky"
 ---
 
 ## Behance Website Redesign

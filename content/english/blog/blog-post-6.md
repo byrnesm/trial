@@ -1,19 +1,14 @@
 ---
+title: "How To Wear Bright Shoes"
+date: 2018-09-24T11:07:10+06:00
 author: John Doe
-bg_image: images/featue-bg.jpg
-categories:
-- Company News
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+image : "images/blog/blog-post-6.jpg"
+bg_image: "images/featue-bg.jpg"
+categories: ["Company News"]
+tags: ["News","Retro","AI","Company"]
+description: "this is meta description"
 draft: false
-image: images/blog/blog-post-6.jpg
-tags:
-- News
-- Retro
-- AI
-- Company
-title: How To Wear Bright Shoes
-type: post
+type: "post"
 ---
 
 
