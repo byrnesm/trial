@@ -1,4 +1,4 @@
-baseURL: http://examplesite.org
+baseURL: https://youthful-darwin-267431.netlify.app
 title: Airspace | Creative Agency Hugo Template
 theme: airspace-hugo
 paginate: '4'
