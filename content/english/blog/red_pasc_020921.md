@@ -1,0 +1,17 @@
+---
+title: "Shallow Winter Reds and Flounder"
+date: 2021-02-09
+author: Matthew Byrnes
+image : "images/flounder.jpg"
+categories: ["Shallow Fishing "]
+tags: ["Redfish", "Flounder", "winter", "shallow"]
+description: "FInding Fish when the Weather is Poor"
+draft: false
+type: "post"
+---
+
+
+
+Well, I finally made it out for some winter fishing here in Mississippi. Kayak fishing often envolves getting wet and even a 50 degree day can prove challenging. Luckily, today we had a warming trend that got temps into the 70's and provided some great fishing opportunities. So I packed up the kayak and hit the bayous along the Pascagoula. The shallow waters were warming faster, creating some very active redfish. I ended up fishing waters ranging in depth from 1-6 feet with a maximum water temp of 64 degrees fairenheit. Reds were coming out of the deep holes (relatively speaking) and moved into 1-2 feet of water. I saw multiple Reds pushing baits up towards the marsh edge, making for some explosive action. The bait of choice was a four inch paddle tail in the electric chicken color. I paid paricular attention to points and outflows where fish were holding and feeding. After locating a fish I worked my bait slowly across the the bottom with extra twitches periodically. This technique produced a beautiful red and a thiccck flounder (yes three c's). 
+
+<img src="/images/red.jpg" alt="what" width="400px" height="400px"/>

@@ -112,9 +112,7 @@ Languages:
         - URL: about
           name: About
           weight: 2
-        - URL: project
-          name: Project
-          weight: 6
+
         - URL: blog
           name: Blog
           weight: 4
