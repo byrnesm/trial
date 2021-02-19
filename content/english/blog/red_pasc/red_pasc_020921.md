@@ -16,4 +16,3 @@ Well, I finally made it out for some winter fishing here in Mississippi. Kayak f
 
 
 ![red](/english/blog/red_pasc/red.jpg)
-<figcaption>k<figcaption>
