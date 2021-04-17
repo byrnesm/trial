@@ -4,7 +4,7 @@ banner:
   bg_image : "images/flounder.jpg"
   bg_overlay : true
   title : "The Scientific Angler"
-  content : "Looking to advance fisheries through the sport of fishing."
+  content : "Looking to advance fisheries through the sport of fishing"
   button:
     enable : true
     label : "More About Me"
@@ -15,6 +15,6 @@ about:
   enable : true
   title : "Mission"
   content : "I've created this resource with the purpose of sharing my knowledge of fisheries with others. My hope is that
-  by discussing the connection between anglers and fisheries I can desctibe a path towards better fisheries management. 
+  by discussing the connection between anglers and fisheries I can describe a path towards better fisheries management. 
   "
 
